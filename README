@@ -1,0 +1,17 @@
+Aegir DB Fix
+
+I wrote this because we started working with early versions of aegir... and we / it would sometimes hang on various cleanup issues.
+
+This is a set of MySQL commands that are used to go out and clean up the DB.
+
+You will need to know the nid(s) of the sites that you want to clean out of the system.
+This works for 'sites'. Not sure that it is what you want for platforms, etc.
+
+As always... TAKE A BACKUP OF THE DATABASE BEFORE USING THIS !!!!!!!!!!!!
+
+In general, it seems to return the Aegir database back to pristine regarding any 'clouded' site.
+
+If you have questions or comments... please let me know.
+
+Kurt Vanderwater
+kurt@meridian-ds.com
